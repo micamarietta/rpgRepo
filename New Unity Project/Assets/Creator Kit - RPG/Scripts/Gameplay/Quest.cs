@@ -27,6 +27,15 @@ namespace RPGM.Gameplay
         public string desc;
         public ConversationScript questInProgressConversation, questCompletedConversation;
 
+        //game objects that will be disappearing
+        public GameObject crate1;
+        public GameObject crate2;
+        public GameObject crate3;
+        public GameObject crate4;
+        public GameObject crate5;
+        public GameObject crate6;
+        public GameObject crate7;
+
         public SpawnMode spawnMode = SpawnMode.CloneAndEnable;
         bool disableItemsOnStart = true;
 
@@ -152,7 +161,17 @@ namespace RPGM.Gameplay
                 clone.SetActive(true);
             }
             isFinished = true;
+
+            crate1.gameObject.SetActive(false);
+            crate2.gameObject.SetActive(false);
+            crate3.gameObject.SetActive(false);
+            crate4.gameObject.SetActive(false);
+            crate5.gameObject.SetActive(false);
+            crate6.gameObject.SetActive(false);
+            crate7.gameObject.SetActive(false);
         }
+
+
 
     }
 }
