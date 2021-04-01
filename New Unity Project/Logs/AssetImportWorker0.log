@@ -15,11 +15,11 @@ C:/Users/snook/Desktop/rpgRepo/New Unity Project
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-60518
+63511
 Successfully changed project path to: C:/Users/snook/Desktop/rpgRepo/New Unity Project
 C:/Users/snook/Desktop/rpgRepo/New Unity Project
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 66.08 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 63.58 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/Resources/UnitySubsystems
@@ -35,900 +35,297 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56076
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56652
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002228 seconds.
+Registered in 0.003456 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 59.42 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 62.41 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.428 seconds
+- Completed reload, in  1.635 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.003119 seconds.
+Registered in 0.004124 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.212 seconds
+- Completed reload, in  1.365 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
-Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.73 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1508 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1509 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 70.8 MB.
 System memory in use after: 70.9 MB.
 
-Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 1939.
-Total: 2.100500 ms (FindLiveObjects: 0.272500 ms CreateObjectMapping: 0.066400 ms MarkObjects: 1.729800 ms  DeleteObjects: 0.030500 ms)
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 1940.
+Total: 5.645600 ms (FindLiveObjects: 0.196900 ms CreateObjectMapping: 0.069600 ms MarkObjects: 5.329900 ms  DeleteObjects: 0.047200 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/RPG.unity
-  artifactKey: Guid(b2132896d54fc4bd5a9339e1f7878d7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RPG.unity using Guid(b2132896d54fc4bd5a9339e1f7878d7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b72dde652618160b4dcf4df29b1a4a9e') in 0.013249 seconds
-  Import took 0.016326 seconds .
+  path: Assets/Creator Kit - RPG/Audio/Minecraft Glass Break - Sound Effect (HD).mp3
+  artifactKey: Guid(b2598d7ea5c1c42de8005223bfa690af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Audio/Minecraft Glass Break - Sound Effect (HD).mp3 using Guid(b2598d7ea5c1c42de8005223bfa690af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a153122fcf343177ac94e9d9305c0a00') in 0.146592 seconds
+  Import took 0.149831 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 54.056517 seconds.
-  path: Assets/CreatorKitRPG_Third-PartyNotice.txt
-  artifactKey: Guid(b224965e0f4d3ef4a8ab4ab136c6885e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CreatorKitRPG_Third-PartyNotice.txt using Guid(b224965e0f4d3ef4a8ab4ab136c6885e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ecee5eb6a0ed7484dda5edd09c76c3b') in 0.025230 seconds
-  Import took 0.028262 seconds .
+  Time since last request: 0.000376 seconds.
+  path: Assets/Creator Kit - RPG/Art/TileMapPalettes
+  artifactKey: Guid(23f2ccd2d725d4c36aeae0df050dd398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/TileMapPalettes using Guid(23f2ccd2d725d4c36aeae0df050dd398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6eec65ea3a68cdab7e78e8464eee87f4') in 0.001808 seconds
+  Import took 0.006753 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003624 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.321 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.82 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1490 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.5 MB.
+System memory in use after: 72.6 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1952.
+Total: 2.158900 ms (FindLiveObjects: 0.193400 ms CreateObjectMapping: 0.071000 ms MarkObjects: 1.869000 ms  DeleteObjects: 0.023600 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.638117 seconds.
-  path: Assets/CreatorKitRPG_Third-PartyNotice.txt
-  artifactKey: Guid(b224965e0f4d3ef4a8ab4ab136c6885e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CreatorKitRPG_Third-PartyNotice.txt using Guid(b224965e0f4d3ef4a8ab4ab136c6885e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ecee5eb6a0ed7484dda5edd09c76c3b') in 0.005948 seconds
-  Import took 0.009888 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 312.064570 seconds.
-  path: Assets/Creator Kit - RPG/Scenes/RPGScene.unity
-  artifactKey: Guid(bc4bdedbb30d74bf98b60f2f63a9e220) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Scenes/RPGScene.unity using Guid(bc4bdedbb30d74bf98b60f2f63a9e220) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd03ba480495afd394d971d756e40a6cf') in 0.003220 seconds
-  Import took 0.007499 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 237.750444 seconds.
-  path: Assets/Creator Kit - RPG/Gameplay Prefabs/Environment/Animated Tree1.prefab
-  artifactKey: Guid(d5abc895c284ea44aaf79bc56af78601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Gameplay Prefabs/Environment/Animated Tree1.prefab using Guid(d5abc895c284ea44aaf79bc56af78601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46d5cd2de770fee383e867c992a28c47') in 0.158463 seconds
-  Import took 0.163622 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000245 seconds.
-  path: Assets/Creator Kit - RPG/Prefabs/UI Camera.prefab
-  artifactKey: Guid(fb58dc84dca7b49f99bde3835c80609b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Prefabs/UI Camera.prefab using Guid(fb58dc84dca7b49f99bde3835c80609b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '474c28243aeeab36fec34993025faf55') in 0.011622 seconds
-  Import took 0.016099 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000264 seconds.
-  path: Assets/Creator Kit - RPG/Prefabs/MessageBar.prefab
-  artifactKey: Guid(81816288a86af46c598e1fa3b10e24a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Prefabs/MessageBar.prefab using Guid(81816288a86af46c598e1fa3b10e24a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9eaea94ed3583fc0d0ed4b629b5db2a') in 0.132199 seconds
-  Import took 0.136471 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000386 seconds.
-  path: Assets/Creator Kit - RPG/Prefabs/Main Camera.prefab
-  artifactKey: Guid(1c14ebde4b5e54881a67b686f46e6b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Prefabs/Main Camera.prefab using Guid(1c14ebde4b5e54881a67b686f46e6b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56669503100a171dfbb24edb49202bd9') in 0.009655 seconds
-  Import took 0.013402 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000231 seconds.
-  path: Assets/Creator Kit - RPG/Prefabs/Tilemaps.prefab
-  artifactKey: Guid(a6ecdc63374074e6eb42a738a5683a91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Prefabs/Tilemaps.prefab using Guid(a6ecdc63374074e6eb42a738a5683a91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7e950a14fb0023337a572b72593df77') in 0.004234 seconds
-  Import took 0.007717 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000757 seconds.
-  path: Assets/Creator Kit - RPG/Gameplay Prefabs/Environment/Animated Tree3.prefab
-  artifactKey: Guid(ff1fc1ae0e9ca2b41ae27dcecbb8fafb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Gameplay Prefabs/Environment/Animated Tree3.prefab using Guid(ff1fc1ae0e9ca2b41ae27dcecbb8fafb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5c0011240c2c9ed834add37dfa1a3f8') in 0.023054 seconds
-  Import took 0.037560 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000320 seconds.
-  path: Assets/Creator Kit - RPG/Prefabs/Grid.prefab
-  artifactKey: Guid(9cfc23e1a92d54df288065697ba3e2f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Prefabs/Grid.prefab using Guid(9cfc23e1a92d54df288065697ba3e2f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea958c325562c5093787af3d92134d04') in 0.006883 seconds
-  Import took 0.016783 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000249 seconds.
-  path: Packages/com.unity.analytics/DataPrivacy/DataPrivacyButton.prefab
-  artifactKey: Guid(71b11355001648444b41d17fd36c150d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.analytics/DataPrivacy/DataPrivacyButton.prefab using Guid(71b11355001648444b41d17fd36c150d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0326113b3d3ab578d449ac0979dac34e') in 0.035724 seconds
-  Import took 0.040659 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000278 seconds.
-  path: Assets/Creator Kit - RPG/Art/Tiles/Tiles.prefab
-  artifactKey: Guid(66a9d607713234dcdad67f06eef62205) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art/Tiles/Tiles.prefab using Guid(66a9d607713234dcdad67f06eef62205) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fd5a9f9d6448365a7f43a328cf61b4b') in 0.011838 seconds
-  Import took 0.017339 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000255 seconds.
-  path: Assets/Creator Kit - RPG/Prefabs/Controllers.prefab
-  artifactKey: Guid(d96c0846c7d644f72bfbf301de1def5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Prefabs/Controllers.prefab using Guid(d96c0846c7d644f72bfbf301de1def5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '099c1f263cad337f4ab3490ef37096d7') in 0.021483 seconds
-  Import took 0.030389 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000201 seconds.
-  path: Assets/Creator Kit - RPG/Prefabs/DialogController.prefab
-  artifactKey: Guid(ab3f7178010354d87a5016c7d6b23a5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Prefabs/DialogController.prefab using Guid(ab3f7178010354d87a5016c7d6b23a5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '547ec36eaa58feccd7d16bb9b50e05f1') in 0.067571 seconds
-  Import took 0.076568 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000389 seconds.
-  path: Assets/Creator Kit - RPG/Gameplay Prefabs/Decorations/Bush 0.prefab
-  artifactKey: Guid(13dcf6dcf8e0f442e95d8714dcc4ba15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Gameplay Prefabs/Decorations/Bush 0.prefab using Guid(13dcf6dcf8e0f442e95d8714dcc4ba15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f340f07e986e0e37c4a2c9e3f680a8b') in 0.017118 seconds
-  Import took 0.021705 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000396 seconds.
-  path: Assets/Creator Kit - RPG/Gameplay Prefabs/Decorations/Bush 2.prefab
-  artifactKey: Guid(ba139b8176ffc426bb00fbe377dd704a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Gameplay Prefabs/Decorations/Bush 2.prefab using Guid(ba139b8176ffc426bb00fbe377dd704a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34725190f27d99db062a8870c8d035f5') in 0.029173 seconds
-  Import took 0.034007 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000255 seconds.
-  path: Assets/Creator Kit - RPG/Gameplay Prefabs/Decorations/Bush 4.prefab
-  artifactKey: Guid(0b28bc885bfce48d6bff8900da845cb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Gameplay Prefabs/Decorations/Bush 4.prefab using Guid(0b28bc885bfce48d6bff8900da845cb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b265d36a7ea20e49c4ea1c36a16d397d') in 0.017342 seconds
-  Import took 0.026701 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000291 seconds.
-  path: Assets/Creator Kit - RPG/Gameplay Prefabs/Environment/Animated Tree2.prefab
-  artifactKey: Guid(bac955241638c274aabfa061ef026008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Gameplay Prefabs/Environment/Animated Tree2.prefab using Guid(bac955241638c274aabfa061ef026008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2527b63cd78ef28ca29d14f7cd0148ce') in 0.018263 seconds
-  Import took 0.023292 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000243 seconds.
-  path: Assets/Creator Kit - RPG/Prefabs/HouseOpenDoor.prefab
-  artifactKey: Guid(8d9e5ee92a6bccc4892e3ebb23cc4766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Prefabs/HouseOpenDoor.prefab using Guid(8d9e5ee92a6bccc4892e3ebb23cc4766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1721be4e69ebf35050b980e35a38a028') in 0.022769 seconds
-  Import took 0.031887 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000228 seconds.
-  path: Assets/Creator Kit - RPG/Prefabs/Inventory.prefab
-  artifactKey: Guid(7c53998562858411aa85d8e0c4bc1333) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Prefabs/Inventory.prefab using Guid(7c53998562858411aa85d8e0c4bc1333) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '182f802157c362f377c5cae6e8737120') in 0.075566 seconds
-  Import took 0.081141 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000278 seconds.
-  path: Assets/Creator Kit - RPG/Prefabs/InventoryDialog.prefab
-  artifactKey: Guid(9c7cbb01d716340ab97a9c902e59ccee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Prefabs/InventoryDialog.prefab using Guid(9c7cbb01d716340ab97a9c902e59ccee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db7e4d197fef9bd16c0cf6bd0020720c') in 0.092693 seconds
-  Import took 0.098940 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000234 seconds.
+  Time since last request: 106.486070 seconds.
   path: Assets/Creator Kit - RPG/Prefabs/Character.prefab
   artifactKey: Guid(84535a21e4ab6412690b5fa8acc3908e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Prefabs/Character.prefab using Guid(84535a21e4ab6412690b5fa8acc3908e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56f56fc93c16cfbe7c89e4cc8001fdca') in 0.049514 seconds
-  Import took 0.059814 seconds .
+Start importing Assets/Creator Kit - RPG/Prefabs/Character.prefab using Guid(84535a21e4ab6412690b5fa8acc3908e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbb9b1f7fb85eb28ba198cd369f2326c') in 0.098372 seconds
+  Import took 0.102500 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000839 seconds.
-  path: Assets/Creator Kit - RPG/Gameplay Prefabs/NPC.prefab
-  artifactKey: Guid(74b5c6b26f0fc4028b9aac1a7a36767d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Gameplay Prefabs/NPC.prefab using Guid(74b5c6b26f0fc4028b9aac1a7a36767d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05bda1735c9aecc11fc2c24fb6a1a02b') in 0.049104 seconds
-  Import took 0.055331 seconds .
+  Time since last request: 3.413467 seconds.
+  path: Assets/Creator Kit - RPG/Prefabs/tree_animated_1.prefab
+  artifactKey: Guid(0f81e9835c97073419fe7a0596a2a4a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Prefabs/tree_animated_1.prefab using Guid(0f81e9835c97073419fe7a0596a2a4a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (animated tree_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (animated tree_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+ -> (artifact id: '63ab489f84bc13538024e5de0333f451') in 0.021471 seconds
+  Import took 0.027937 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000297 seconds.
-  path: Assets/Creator Kit - RPG/Gameplay Prefabs/StoryItem.prefab
-  artifactKey: Guid(c14338f3a43e548bd89e6e11c7bcb803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Gameplay Prefabs/StoryItem.prefab using Guid(c14338f3a43e548bd89e6e11c7bcb803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c39f86551efc9a29d6f9ff1f5f420170') in 0.010741 seconds
-  Import took 0.014701 seconds .
+  Time since last request: 0.010490 seconds.
+  path: Assets/Creator Kit - RPG/Prefabs/tree_animated_1.prefab
+  artifactKey: Guid(0f81e9835c97073419fe7a0596a2a4a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Prefabs/tree_animated_1.prefab using Guid(0f81e9835c97073419fe7a0596a2a4a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (animated tree_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (animated tree_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+ -> (artifact id: '63ab489f84bc13538024e5de0333f451') in 0.013577 seconds
+  Import took 0.020604 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000217 seconds.
-  path: Assets/Creator Kit - RPG/Gameplay Prefabs/InventoryItem.prefab
-  artifactKey: Guid(2a657642475934620a07fd2e829b35d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Gameplay Prefabs/InventoryItem.prefab using Guid(2a657642475934620a07fd2e829b35d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1d2a777a93bb200484378d1c3fadc33') in 0.030656 seconds
-  Import took 0.035737 seconds .
+  Time since last request: 2.327094 seconds.
+  path: Assets/Creator Kit - RPG/Prefabs/tree_animated_2.prefab
+  artifactKey: Guid(f239d7aae68ec484984797744267e6ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Prefabs/tree_animated_2.prefab using Guid(f239d7aae68ec484984797744267e6ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (animated tree3_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (animated tree3_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+ -> (artifact id: 'bef4281a41421836f2975053a71e5f4d') in 0.019540 seconds
+  Import took 0.023250 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000295 seconds.
-  path: Assets/Creator Kit - RPG/Gameplay Prefabs/Environment/Leaves.prefab
-  artifactKey: Guid(d377c9c5cc7e8448e9087960e6c26aec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Gameplay Prefabs/Environment/Leaves.prefab using Guid(d377c9c5cc7e8448e9087960e6c26aec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18e851139c95e4dcc46aeab31993daf9') in 0.024331 seconds
-  Import took 0.030536 seconds .
+  Time since last request: 0.005246 seconds.
+  path: Assets/Creator Kit - RPG/Prefabs/tree_animated_2.prefab
+  artifactKey: Guid(f239d7aae68ec484984797744267e6ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Prefabs/tree_animated_2.prefab using Guid(f239d7aae68ec484984797744267e6ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (animated tree3_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (animated tree3_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+ -> (artifact id: 'bef4281a41421836f2975053a71e5f4d') in 0.014230 seconds
+  Import took 0.020070 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000246 seconds.
-  path: Assets/Creator Kit - RPG/Cutscene/Prefabs/Cutscene.prefab
-  artifactKey: Guid(59277b2399f6844aa988bef6a308e319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Cutscene/Prefabs/Cutscene.prefab using Guid(59277b2399f6844aa988bef6a308e319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '806ed09c9f6bb75652a35431ad2cd53d') in 0.068586 seconds
-  Import took 0.077823 seconds .
+  Time since last request: 19.981479 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animations/Environment
+  artifactKey: Guid(d017b8efc9edff844b9751cd530d5e99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animations/Environment using Guid(d017b8efc9edff844b9751cd530d5e99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea2b21ffece35d0de411c4cab8c1fa6f') in 0.002258 seconds
+  Import took 0.006805 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000287 seconds.
-  path: Assets/Creator Kit - RPG/Gameplay Prefabs/Decorations/Bush 3.prefab
-  artifactKey: Guid(8ad5c786eb7b149c09ecc04090b5087d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Gameplay Prefabs/Decorations/Bush 3.prefab using Guid(8ad5c786eb7b149c09ecc04090b5087d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a84aab2e455557ede9bffc1f06f1943c') in 0.018950 seconds
-  Import took 0.024019 seconds .
+  Time since last request: 36.260847 seconds.
+  path: Assets/Creator Kit - RPG/Prefabs/tree_animation_3.prefab
+  artifactKey: Guid(ab90b2e477a58904ca3313bb1d278352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Prefabs/tree_animation_3.prefab using Guid(ab90b2e477a58904ca3313bb1d278352) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (animated tree2_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (animated tree2_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+ -> (artifact id: 'd7c7ae1e66d0cc7cbd9f27410dc264a9') in 0.020215 seconds
+  Import took 0.024612 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000321 seconds.
-  path: Assets/Creator Kit - RPG/Prefabs/HouseRoof.prefab
-  artifactKey: Guid(4ca9604554bc54f608984cba5088222e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Prefabs/HouseRoof.prefab using Guid(4ca9604554bc54f608984cba5088222e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0af1c74d771c57fdfd2844c50ad29844') in 0.036741 seconds
-  Import took 0.043650 seconds .
+  Time since last request: 0.003642 seconds.
+  path: Assets/Creator Kit - RPG/Prefabs/tree_animation_3.prefab
+  artifactKey: Guid(ab90b2e477a58904ca3313bb1d278352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Prefabs/tree_animation_3.prefab using Guid(ab90b2e477a58904ca3313bb1d278352) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (animated tree2_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (animated tree2_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+ -> (artifact id: 'd7c7ae1e66d0cc7cbd9f27410dc264a9') in 0.016119 seconds
+  Import took 0.024411 seconds .
 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000239 seconds.
-  path: Assets/Creator Kit - RPG/Prefabs/HouseChimney.prefab
-  artifactKey: Guid(4d6bc847403394c328ca695ffeb4a209) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Prefabs/HouseChimney.prefab using Guid(4d6bc847403394c328ca695ffeb4a209) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c08ab3e5b95f94b8fafc304506ed04a') in 0.017192 seconds
-  Import took 0.023044 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000304 seconds.
-  path: Assets/Creator Kit - RPG/Gameplay Prefabs/Decorations/Bush 1.prefab
-  artifactKey: Guid(71ba34d6d86b0486daec9d252186e8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Gameplay Prefabs/Decorations/Bush 1.prefab using Guid(71ba34d6d86b0486daec9d252186e8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd17157bea63a9d3f6d4cca9c9341f318') in 0.022488 seconds
-  Import took 0.033275 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000321 seconds.
-  path: Packages/com.unity.xr.legacyinputhelpers/Prefabs/XRRig.prefab
-  artifactKey: Guid(c116b7497ab8ca34c9188965d4295e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.xr.legacyinputhelpers/Prefabs/XRRig.prefab using Guid(c116b7497ab8ca34c9188965d4295e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75d2327b754f3dc9e95d28a70d3044df') in 0.020941 seconds
-  Import took 0.030221 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 23.615492 seconds.
-  path: Assets/Creator Kit - RPG/Art/Sprites
-  artifactKey: Guid(41c83a1bfc4964a3ca4b3120a0ae491f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art/Sprites using Guid(41c83a1bfc4964a3ca4b3120a0ae491f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2681a911c85f3caa9066af0faaf2246') in 0.002501 seconds
-  Import took 0.010699 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001932 seconds.
-  path: Assets/Creator Kit - RPG/Art/Sprites
-  artifactKey: Guid(41c83a1bfc4964a3ca4b3120a0ae491f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art/Sprites using Guid(41c83a1bfc4964a3ca4b3120a0ae491f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2681a911c85f3caa9066af0faaf2246') in 0.002845 seconds
-  Import took 0.008077 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.462725 seconds.
-  path: Assets/Creator Kit - RPG/Art/Sprites/Characters
-  artifactKey: Guid(3f7ca6af6f2b39d47a082da26b2aca64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art/Sprites/Characters using Guid(3f7ca6af6f2b39d47a082da26b2aca64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f1ed47848ce1fa5b714bddc6d64c183') in 0.012203 seconds
-  Import took 0.017782 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.067613 seconds.
-  path: Assets/Creator Kit - RPG/Art/Sprites/Characters/Characters01_AnimationSheet.png
-  artifactKey: Guid(f22540e8ea335034b92c27795aa254c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art/Sprites/Characters/Characters01_AnimationSheet.png using Guid(f22540e8ea335034b92c27795aa254c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '493d3e19ace069e01eeb79729080065d') in 0.312289 seconds
-  Import took 0.325018 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000232 seconds.
-  path: Assets/Creator Kit - RPG/Art/Sprites/Characters/Characters02_AnimationSheet.png
-  artifactKey: Guid(3f198c94b65508c44a32b4b4072bb419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art/Sprites/Characters/Characters02_AnimationSheet.png using Guid(3f198c94b65508c44a32b4b4072bb419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00dc3c4db587767916757f4459598acb') in 0.223432 seconds
-  Import took 0.230122 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002010 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.90 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.612 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1489 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 72.8 MB.
-System memory in use after: 72.9 MB.
-
-Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1956.
-Total: 4.961200 ms (FindLiveObjects: 2.357300 ms CreateObjectMapping: 0.270400 ms MarkObjects: 2.271600 ms  DeleteObjects: 0.057500 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 464.052064 seconds.
-  path: Assets/Creator Kit - RPG/Art/Sprites/Environment/Fence_0.asset
-  artifactKey: Guid(bebba5c855c434c69af163c74980ca31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art/Sprites/Environment/Fence_0.asset using Guid(bebba5c855c434c69af163c74980ca31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd917d434ef7e8fe2d5adc1df21525404') in 0.082582 seconds
-  Import took 0.087357 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000333 seconds.
-  path: Assets/Creator Kit - RPG/Art/Sprites/Environment/Fence_4.asset
-  artifactKey: Guid(8d3492b4e08154b60a904c675f25493b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art/Sprites/Environment/Fence_4.asset using Guid(8d3492b4e08154b60a904c675f25493b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe63647cbee50a988ea3a42998e05cba') in 0.012296 seconds
-  Import took 0.017567 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000332 seconds.
-  path: Assets/Creator Kit - RPG/Art/Sprites/Environment/Fence_1.asset
-  artifactKey: Guid(e2fa748b420ed4da799af1db18c08926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art/Sprites/Environment/Fence_1.asset using Guid(e2fa748b420ed4da799af1db18c08926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56ebeeba3c095b8a60233b3f5b455398') in 0.011590 seconds
-  Import took 0.016461 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000203 seconds.
-  path: Assets/Creator Kit - RPG/Art/Sprites/Environment/Fence_2.asset
-  artifactKey: Guid(faaa164f3bd5b4b8d8dfb7644c956783) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art/Sprites/Environment/Fence_2.asset using Guid(faaa164f3bd5b4b8d8dfb7644c956783) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd3c7b33a57620041b37ca33ccb1711d') in 0.011697 seconds
-  Import took 0.016428 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000276 seconds.
-  path: Assets/Creator Kit - RPG/Art/Sprites/Environment/Fence_3.asset
-  artifactKey: Guid(f38194a01cb144a8b8796f270d5ddb18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art/Sprites/Environment/Fence_3.asset using Guid(f38194a01cb144a8b8796f270d5ddb18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0203fd9457fd5cc7ea88a0389930590') in 0.012450 seconds
-  Import took 0.017708 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000291 seconds.
-  path: Assets/Creator Kit - RPG/Art/Sprites/Environment/Fence_9.asset
-  artifactKey: Guid(f4de20b2d1fbf4a0e8aae76b8d686056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art/Sprites/Environment/Fence_9.asset using Guid(f4de20b2d1fbf4a0e8aae76b8d686056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64a7ea945786686daadd68a8e4747b3d') in 0.011697 seconds
-  Import took 0.017086 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.693480 seconds.
-  path: Assets/Creator Kit - RPG/Art
-  artifactKey: Guid(3f997c216393145e0a5f22a43a0da0c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art using Guid(3f997c216393145e0a5f22a43a0da0c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e8ae987222fef5a5b0155d1030278fe') in 0.002106 seconds
-  Import took 0.006677 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001131 seconds.
-  path: Assets/Creator Kit - RPG/Art
-  artifactKey: Guid(3f997c216393145e0a5f22a43a0da0c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art using Guid(3f997c216393145e0a5f22a43a0da0c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e8ae987222fef5a5b0155d1030278fe') in 0.004023 seconds
-  Import took 0.009322 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.410565 seconds.
-  path: Assets/Creator Kit - RPG/Art/Sprites/UI
-  artifactKey: Guid(0165c90fd8d6e3340982e12bc998800e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art/Sprites/UI using Guid(0165c90fd8d6e3340982e12bc998800e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '291df6a5a8ac3d9ffbd1a593de264465') in 0.002211 seconds
-  Import took 0.009384 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.063881 seconds.
-  path: Assets/Creator Kit - RPG/Art/Sprites/UI/DialogueBar.psd
-  artifactKey: Guid(864d53185d49afd4ba160601369e6557) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art/Sprites/UI/DialogueBar.psd using Guid(864d53185d49afd4ba160601369e6557) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50c0ec3cb0cdaede22d58922f8f5350f') in 0.034610 seconds
-  Import took 0.038409 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.161221 seconds.
-  path: Assets/Creator Kit - RPG/Art/Sprites/Animated Environment
-  artifactKey: Guid(061f0d3f22cdeb14ab9c1680b6aa0973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art/Sprites/Animated Environment using Guid(061f0d3f22cdeb14ab9c1680b6aa0973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ec22f7b655afe7be9803bc7ace5a7c2') in 0.002599 seconds
-  Import took 0.006770 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.085897 seconds.
-  path: Assets/Creator Kit - RPG/Art/Sprites/Animated Environment/Animated_HighGrass_Sheet.png
-  artifactKey: Guid(41a5838cb902bfa43b3d51f653cd804a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art/Sprites/Animated Environment/Animated_HighGrass_Sheet.png using Guid(41a5838cb902bfa43b3d51f653cd804a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '186e6a317baa94881f06ee9b28da7092') in 0.186685 seconds
-  Import took 0.192480 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000223 seconds.
-  path: Assets/Creator Kit - RPG/Art/Sprites/Animated Environment/Animated_WaterCorners_Sheet.png
-  artifactKey: Guid(cb2c6dcd19a1c244c9fcc9bd04cebd2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art/Sprites/Animated Environment/Animated_WaterCorners_Sheet.png using Guid(cb2c6dcd19a1c244c9fcc9bd04cebd2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3a8797def1cb4f41426c99f4d1e41ba') in 0.124659 seconds
-  Import took 0.128932 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000242 seconds.
-  path: Assets/Creator Kit - RPG/Art/Sprites/Animated Environment/Animated_Leaves_Sheet.png
-  artifactKey: Guid(96e993a3f475b384f845f47980d6d932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art/Sprites/Animated Environment/Animated_Leaves_Sheet.png using Guid(96e993a3f475b384f845f47980d6d932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54491c328ebe622f900378578125d717') in 0.036915 seconds
-  Import took 0.040864 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000218 seconds.
-  path: Assets/Creator Kit - RPG/Art/Sprites/Animated Environment/Animated_Water_Sheet.png
-  artifactKey: Guid(aaa735c5fdc695d4691e911ab4338879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art/Sprites/Animated Environment/Animated_Water_Sheet.png using Guid(aaa735c5fdc695d4691e911ab4338879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a066280a76a4ed418b8d3b6946cff02b') in 0.260984 seconds
-  Import took 0.265233 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000258 seconds.
-  path: Assets/Creator Kit - RPG/Art/Sprites/Animated Environment/Animated_Leaves_Sheet.png
-  artifactKey: Guid(96e993a3f475b384f845f47980d6d932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art/Sprites/Animated Environment/Animated_Leaves_Sheet.png using Guid(96e993a3f475b384f845f47980d6d932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54491c328ebe622f900378578125d717') in 0.031886 seconds
-  Import took 0.035172 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000214 seconds.
-  path: Assets/Creator Kit - RPG/Art/Sprites/Animated Environment/Animated_Tree1_Sheet.png
-  artifactKey: Guid(c12a9ef0e75f18949a86a10822cf29f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art/Sprites/Animated Environment/Animated_Tree1_Sheet.png using Guid(c12a9ef0e75f18949a86a10822cf29f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b0e326dd0fd138648fb328bc39afa58') in 0.056773 seconds
-  Import took 0.060586 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000221 seconds.
-  path: Assets/Creator Kit - RPG/Art/Sprites/Animated Environment/Animated_Smoke_Sheet.png
-  artifactKey: Guid(5cc535ba862941440a276a5629cd0391) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art/Sprites/Animated Environment/Animated_Smoke_Sheet.png using Guid(5cc535ba862941440a276a5629cd0391) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb32b21fe58b25a0b9d0fad7e0c20ee2') in 0.050561 seconds
-  Import took 0.054484 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000239 seconds.
-  path: Assets/Creator Kit - RPG/Art/Sprites/Animated Environment/Animated_Tree2_Sheet.png
-  artifactKey: Guid(4c4775fa3485eda4197558b5d1206d16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art/Sprites/Animated Environment/Animated_Tree2_Sheet.png using Guid(4c4775fa3485eda4197558b5d1206d16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e2d8baf4eaf84bccbba75a9c504ca4f') in 0.063706 seconds
-  Import took 0.067186 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000227 seconds.
-  path: Assets/Creator Kit - RPG/Art/Sprites/Animated Environment/Animated_Tree3_Sheet.png
-  artifactKey: Guid(12d14b4f7de20ff4da9bc415c17c4162) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art/Sprites/Animated Environment/Animated_Tree3_Sheet.png using Guid(12d14b4f7de20ff4da9bc415c17c4162) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '306defb98f5f1d135487d12355b506f2') in 0.058467 seconds
-  Import took 0.062416 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.491206 seconds.
-  path: Assets/Creator Kit - RPG/Art/Animators/Archer-Override.overrideController
-  artifactKey: Guid(7ee3425d802434ff69fadaff765bcb79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art/Animators/Archer-Override.overrideController using Guid(7ee3425d802434ff69fadaff765bcb79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74a90c6dee22dd8935310c2be1abb68d') in 0.015335 seconds
-  Import took 0.023166 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000286 seconds.
-  path: Assets/Creator Kit - RPG/Art/Animators/Thief-Override.overrideController
-  artifactKey: Guid(7bfb43d7068f94aff8f20e9a7916bee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art/Animators/Thief-Override.overrideController using Guid(7bfb43d7068f94aff8f20e9a7916bee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98825c8513458da68897e5010ce035bd') in 0.011478 seconds
-  Import took 0.016072 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000411 seconds.
-  path: Assets/Creator Kit - RPG/Art/Animators/Warrior-Override.overrideController
-  artifactKey: Guid(3caa1e5e0e6c343d69793b2b5dd95939) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art/Animators/Warrior-Override.overrideController using Guid(3caa1e5e0e6c343d69793b2b5dd95939) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '737e459f519bc177070bef16bbfc8230') in 0.014492 seconds
-  Import took 0.018472 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.333205 seconds.
-  path: Assets/Creator Kit - RPG/Prefabs
-  artifactKey: Guid(a682643de78b742dda93b717dff9e832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Prefabs using Guid(a682643de78b742dda93b717dff9e832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01bf6fc76b545251e495413cef3c1fdb') in 0.002102 seconds
-  Import took 0.005366 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.331855 seconds.
-  path: Assets/Creator Kit - RPG/Gameplay Prefabs
-  artifactKey: Guid(107c233aa6c7b4e66ade004f1cfefa64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Gameplay Prefabs using Guid(107c233aa6c7b4e66ade004f1cfefa64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c4d9105c4a2c0edd0af5235804a47a1') in 0.005571 seconds
-  Import took 0.009894 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.490626 seconds.
-  path: Assets/Creator Kit - RPG/Gameplay Prefabs/Environment
-  artifactKey: Guid(42223a6f05f774ad0b7c6f794331f4d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Gameplay Prefabs/Environment using Guid(42223a6f05f774ad0b7c6f794331f4d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2db231f3acd288c6a50ff4e3ed881a23') in 0.004344 seconds
-  Import took 0.009070 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.822250 seconds.
-  path: Assets/Creator Kit - RPG/Gameplay Prefabs/Decorations
-  artifactKey: Guid(f3494fd5fba964800b0601dba55c170d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Gameplay Prefabs/Decorations using Guid(f3494fd5fba964800b0601dba55c170d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72f5da1668dfb6ac203949e813d41ae1') in 0.002765 seconds
-  Import took 0.009699 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002233 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.643 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1489 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 72.8 MB.
-System memory in use after: 72.9 MB.
-
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1966.
-Total: 2.777100 ms (FindLiveObjects: 0.415700 ms CreateObjectMapping: 0.153700 ms MarkObjects: 2.176700 ms  DeleteObjects: 0.028300 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 2228.556730 seconds.
-  path: Assets/Creator Kit - RPG/Art/Sprites/Environment/#2 - Transparent Icons & Drop Shadow.png
-  artifactKey: Guid(245276e778b564f9092d7ae2224e0d4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art/Sprites/Environment/#2 - Transparent Icons & Drop Shadow.png using Guid(245276e778b564f9092d7ae2224e0d4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cb76e113606067cc0585c6fb90ca38e') in 0.644866 seconds
-  Import took 0.650268 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 655.808343 seconds.
-  path: Assets/Creator Kit - RPG/Art/Sprites/Floors/Tiles_Desert.png
-  artifactKey: Guid(3fee7df828e6f284bbcf208bce9c5e21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art/Sprites/Floors/Tiles_Desert.png using Guid(3fee7df828e6f284bbcf208bce9c5e21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ee86dd3032c5db1c3367c981b93bf63') in 0.044846 seconds
-  Import took 0.048971 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000243 seconds.
-  path: Assets/Creator Kit - RPG/Art/Sprites/Floors/Tiles_DarkGrasstoGrass.png
-  artifactKey: Guid(c0a5a87d19188f54ebc44df12c0ef2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art/Sprites/Floors/Tiles_DarkGrasstoGrass.png using Guid(c0a5a87d19188f54ebc44df12c0ef2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e854a0152f1cb7ebe0c7913c096ffe18') in 0.046340 seconds
-  Import took 0.050110 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000242 seconds.
-  path: Assets/Creator Kit - RPG/Art/Sprites/Floors/Tiles_Grass.png
-  artifactKey: Guid(f0c5dcd8670748f44885d4dd86ca8c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art/Sprites/Floors/Tiles_Grass.png using Guid(f0c5dcd8670748f44885d4dd86ca8c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f9b1cf881158d085a3160e0af09e346') in 0.048655 seconds
-  Import took 0.052747 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000184 seconds.
-  path: Assets/Creator Kit - RPG/Art/Sprites/Floors/Tiles_DesertToGrass.png
-  artifactKey: Guid(e1a1413c04362fd45b5c32ba9200e42b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art/Sprites/Floors/Tiles_DesertToGrass.png using Guid(e1a1413c04362fd45b5c32ba9200e42b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2a599102fd35aff3aaa3fbf888a09bc') in 0.039742 seconds
-  Import took 0.046288 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000237 seconds.
-  path: Assets/Creator Kit - RPG/Art/Sprites/Floors/Tiles_GrassToDesert.png
-  artifactKey: Guid(78ad6eb3988a8e440bbf2a9ecc2d918f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art/Sprites/Floors/Tiles_GrassToDesert.png using Guid(78ad6eb3988a8e440bbf2a9ecc2d918f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a44c1fae9bce707f6d563c2049bb13b') in 0.053206 seconds
-  Import took 0.059873 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000234 seconds.
-  path: Assets/Creator Kit - RPG/Cutscene/Transitions/transition-8.png
-  artifactKey: Guid(f386caa51fda60946b845e8202947bde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Cutscene/Transitions/transition-8.png using Guid(f386caa51fda60946b845e8202947bde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9320ab84cc451495f459f9215fba6e44') in 0.021496 seconds
-  Import took 0.025430 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000250 seconds.
-  path: Assets/Creator Kit - RPG/Cutscene/Transitions/transition-2.png
-  artifactKey: Guid(603e7c83c444ad8439b4f3972d6ac914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Cutscene/Transitions/transition-2.png using Guid(603e7c83c444ad8439b4f3972d6ac914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8b7ce7eed01ceff45aa335355e1527a') in 0.021800 seconds
-  Import took 0.025534 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000210 seconds.
-  path: Assets/Creator Kit - RPG/Cutscene/Transitions/transition-6.png
-  artifactKey: Guid(8738b94501ca6ea4f947fc66f8fbbd16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Cutscene/Transitions/transition-6.png using Guid(8738b94501ca6ea4f947fc66f8fbbd16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36ef79b9d5e00f131f719d0c85885cc7') in 0.018956 seconds
-  Import took 0.023048 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000244 seconds.
-  path: Assets/Creator Kit - RPG/Cutscene/Transitions/transition-4.png
-  artifactKey: Guid(a4273a4d8401bf045ad8d41316011d66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Cutscene/Transitions/transition-4.png using Guid(a4273a4d8401bf045ad8d41316011d66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7678a387147c430516c425a3a3960f10') in 0.021909 seconds
-  Import took 0.026510 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000211 seconds.
-  path: Assets/Creator Kit - RPG/Cutscene/Transitions/transition-1.png
-  artifactKey: Guid(a63c75c41e96a194d8bf311412e6db27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Cutscene/Transitions/transition-1.png using Guid(a63c75c41e96a194d8bf311412e6db27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb6117b0c046c526e98a5c7acf6e1f52') in 0.019490 seconds
-  Import took 0.023039 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000232 seconds.
-  path: Assets/Creator Kit - RPG/Cutscene/Transitions/transition-3.png
-  artifactKey: Guid(2f68931e5fb2dd04695942636863ea61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Cutscene/Transitions/transition-3.png using Guid(2f68931e5fb2dd04695942636863ea61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aebd797a19623b1897f4ca389fbf82ad') in 0.021072 seconds
-  Import took 0.024752 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000272 seconds.
-  path: Assets/Creator Kit - RPG/Cutscene/Transitions/transition-9.png
-  artifactKey: Guid(9e2d0a4ff6764d7408ad133246a77808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Cutscene/Transitions/transition-9.png using Guid(9e2d0a4ff6764d7408ad133246a77808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aac4a0116a7260ead5c11a529ccafdd2') in 0.017268 seconds
-  Import took 0.021704 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000240 seconds.
-  path: Assets/Creator Kit - RPG/Cutscene/Transitions/transition-7.png
-  artifactKey: Guid(d3324c3b752839b45b6388e3d903e9fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Cutscene/Transitions/transition-7.png using Guid(d3324c3b752839b45b6388e3d903e9fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56902b43314648a2a43eb5fc6714b9e1') in 0.017612 seconds
-  Import took 0.025132 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000308 seconds.
-  path: Assets/Creator Kit - RPG/Cutscene/Transitions/transition-5.png
-  artifactKey: Guid(ec4aabbaa0bb5114dbc4912f2c51eb38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Cutscene/Transitions/transition-5.png using Guid(ec4aabbaa0bb5114dbc4912f2c51eb38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1023551ad477a6305164d0006991873f') in 0.017558 seconds
-  Import took 0.023301 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.345505 seconds.
-  path: Assets/Creator Kit - RPG/Art/Sprites/Floors/Tiles_GrassVariant.png
-  artifactKey: Guid(84497fb83bb127248be9d1bc49bfd586) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art/Sprites/Floors/Tiles_GrassVariant.png using Guid(84497fb83bb127248be9d1bc49bfd586) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e91f18ebd09b107da3bb163e98dc4f9') in 0.033855 seconds
-  Import took 0.037876 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000225 seconds.
-  path: Assets/Creator Kit - RPG/Cutscene/Transitions/transition-0.png
-  artifactKey: Guid(dfb93313495e3e545bdfc38ede4aaeaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Cutscene/Transitions/transition-0.png using Guid(dfb93313495e3e545bdfc38ede4aaeaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cc721fcf328a45410e1760106cf5092') in 0.019267 seconds
-  Import took 0.024520 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000256 seconds.
-  path: Assets/Creator Kit - RPG/Art/Sprites/Floors/Tiles_GrassVariant.png
-  artifactKey: Guid(84497fb83bb127248be9d1bc49bfd586) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art/Sprites/Floors/Tiles_GrassVariant.png using Guid(84497fb83bb127248be9d1bc49bfd586) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e91f18ebd09b107da3bb163e98dc4f9') in 0.048140 seconds
-  Import took 0.052694 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 389.305614 seconds.
-  path: Assets/Creator Kit - RPG/Art/Animations/Characters
-  artifactKey: Guid(5490aae0fc63c984a9bfc47d6805bc0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art/Animations/Characters using Guid(5490aae0fc63c984a9bfc47d6805bc0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e44a601ff07851676f56e57c01c4a86') in 0.003220 seconds
-  Import took 0.008140 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.093533 seconds.
-  path: Assets/Creator Kit - RPG/Art/Animations/Characters/Archer
-  artifactKey: Guid(3c02c21ff299f4e108badd034e2f0e05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art/Animations/Characters/Archer using Guid(3c02c21ff299f4e108badd034e2f0e05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f3b385654a1c2513a626c30f19b2449') in 0.002098 seconds
-  Import took 0.007259 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.037720 seconds.
-  path: Assets/Creator Kit - RPG/Art/Animations/Characters/Thief
-  artifactKey: Guid(35a53276af7734336b8509ba9361a9e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Art/Animations/Characters/Thief using Guid(35a53276af7734336b8509ba9361a9e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '327f8d996f52258304f2210d8e6f9f2c') in 0.002933 seconds
-  Import took 0.007273 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001970 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.656 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1489 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 73.0 MB.
-System memory in use after: 73.1 MB.
-
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1973.
-Total: 3.451400 ms (FindLiveObjects: 1.137000 ms CreateObjectMapping: 0.348100 ms MarkObjects: 1.935800 ms  DeleteObjects: 0.026400 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002175 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.696 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1489 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 73.0 MB.
-System memory in use after: 73.1 MB.
-
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1976.
-Total: 2.144800 ms (FindLiveObjects: 0.202000 ms CreateObjectMapping: 0.069600 ms MarkObjects: 1.850900 ms  DeleteObjects: 0.021000 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002011 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.662 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.73 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1489 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 73.0 MB.
-System memory in use after: 73.1 MB.
-
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1979.
-Total: 4.127000 ms (FindLiveObjects: 0.285200 ms CreateObjectMapping: 0.155800 ms MarkObjects: 3.658600 ms  DeleteObjects: 0.025300 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004185 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.795 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.96 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1489 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 73.0 MB.
-System memory in use after: 73.1 MB.
-
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1982.
-Total: 2.420200 ms (FindLiveObjects: 0.313700 ms CreateObjectMapping: 0.101100 ms MarkObjects: 1.977800 ms  DeleteObjects: 0.025800 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003485 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.531 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1489 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 73.0 MB.
-System memory in use after: 73.1 MB.
-
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1985.
-Total: 2.585800 ms (FindLiveObjects: 0.283900 ms CreateObjectMapping: 0.140500 ms MarkObjects: 2.129600 ms  DeleteObjects: 0.030800 ms)
-
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file
