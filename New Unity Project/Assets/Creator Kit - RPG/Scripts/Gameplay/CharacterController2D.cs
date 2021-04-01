@@ -17,7 +17,9 @@ namespace RPGM.Gameplay
         public Vector3 nextMoveCommand;
         public Animator animator;
         public bool flipX = false;
-
+        public AudioSource source;
+        public AudioClip glassBreak;
+ 
         new Rigidbody2D rigidbody2D;
         SpriteRenderer spriteRenderer;
         PixelPerfectCamera pixelPerfectCamera;
