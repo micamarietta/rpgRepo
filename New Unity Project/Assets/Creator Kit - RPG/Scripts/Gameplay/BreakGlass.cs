@@ -4,12 +4,16 @@ using UnityEngine;
 
 public class BreakGlass : MonoBehaviour
 {
-    private void OnCollisionEnter(Collision collision)
+
+    public GameObject potToBreak;
+    public AudioSource source;
+    public AudioClip breakSound;
+
+    private void OnTriggerEnter2D(Collider2D collider)
     {
-        Debug.Log(collision.gameObject.tag);
-        if(collision.gameObject.tag == "Pot")
+        if(collider.gameObject.tag == "Player" && Input.GetKey(KeyCode.F))
         {
-            Destroy(collision.gameObject);
+            potToBreak.SetActive(false);
         }
     }
 }
